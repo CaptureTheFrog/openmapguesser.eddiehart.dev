@@ -221,7 +221,7 @@ key = "tCCcgIj5BzDrVaNZNnYh";
     const map = L.map("map").setView([0, 0], 1);
     const baseLayer = L.maptilerLayer({
       apiKey: key,
-      style: "f60f30f5-cbe5-4499-8672-25dc30a2a5d1",
+      style: "ca5a14ec-86d1-4a05-9bbf-b8db425647c1",
     }).addTo(map);
     nextName();
     let handleClick = (e) => {
