@@ -216,7 +216,8 @@ const playRegion = (the_region, the_button) => {
     maxscore = names.length * 3; // TODO: change if we change the scoring system
     navScreen.classList.add("hidden");
     mapScreen.classList.remove("hidden");
-    const key = "qkOKp14TlTpS6tZnCYBN";
+    const 
+key = "tCCcgIj5BzDrVaNZNnYh";
     const map = L.map("map").setView([0, 0], 1);
     const baseLayer = L.maptilerLayer({
       apiKey: key,
